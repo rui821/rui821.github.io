@@ -1,0 +1,147 @@
+.wave-wrp2{
+    margin-top: -90px;
+	background-color: none;
+	#border: 2px solid #000000; 
+}
+#canvas_ye {
+    height: 100px;
+	z-index: 30;
+	position: relative;
+    width: 200%;
+}
+
+.all-flow{
+	background-color: #e3c627;
+	margin-top: -10px;
+	padding-top: 60px;
+	padding-bottom: 200px;
+}
+.flow-abstract{
+	text-align: center;
+	color:white;
+	margin-bottom: 30px;
+}
+.flow-abstract .flow-title{
+	font-size: 30px;
+	margin-bottom: 10px;
+	font-family: 'Hiragino Mincho ProN','Yu Mincho Light',sans-serif;
+}
+.flow-abstract .sub-flow-title{
+	
+}
+
+.step-flow{
+	display: flex;
+	width:900px;
+	justify-content: space-between;
+	align-items: flex-start;
+	#flex-wrap: wrap;
+	margin: 0 auto;
+	color:white;
+}
+[class^="step-item--"]{
+	list-style: none;
+	width:250px;
+	position: relative;
+	
+}
+[class^="step-item--"]:not(:last-child)::after {
+	content:"\f054";
+	font-family: "Font Awesome 5 Free";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: -40px;
+	margin: auto;
+	font-weight: bold;
+	line-height: 1;
+	height: 1em;
+	color: #FFF;
+}
+.step3::after{
+	content: ;
+}
+.step-title{
+	text-align: center;
+	
+	padding-bottom: 15px;
+	display: flex;
+  	flex-direction: column;
+	width: 60px;
+	margin: 0 auto;
+}
+.step-title .step-img{
+	width:58px;
+	padding-bottom: 10px;
+}
+.step-title .step-num-img{
+	width:60px;
+}
+.step-content{
+	border-top: 3.5px solid #FFF;
+	font-size: 14px;
+	letter-spacing: 2.5px;
+	padding-top: 28px;
+	line-height: 1.8;
+}
+
+@media screen and (max-width: 768px) {
+	.flow-abstract .flow-title{
+		font-size: 20px;
+		letter-spacing: 2px;
+	}
+	.flow-abstract .sub-flow-title{
+		font-size: 13px;
+	}
+	
+	.all-flow{
+		padding-bottom: 100px;
+	}
+	.step-flow{
+		display:block;
+		width:100%;
+		margin: 0 auto;
+		#padding-bottom: 0;
+		#margin-bottom: -10px;
+	}
+	
+	[class^="step-item--"]{
+		width:80%;
+		position: relative;
+		margin:0 auto;
+		margin-bottom: 80px;
+	}
+	[class^="step-item--"]:not(:last-child)::after {
+		content:"\f078";
+		top: auto;
+		bottom: -2.3em;
+		right: 0;
+		width:1em;
+		font-size: 22px;
+		position: absolute;
+		width:100%;
+		text-align: center;
+	}
+	.step-title{
+		padding-bottom: 15px;
+		width: 60px;
+		#margin-bottom: 15px;
+	}
+	.step-title .step-img{
+		width:40px;
+		padding-bottom: 10px;
+		margin: 0 auto;
+	}
+	.step-title .step-num-img{
+		width:48px;
+		margin:0 auto;
+	}
+	.step-content{
+		border-top: 2px solid #FFF;
+		font-size: 12px;
+		letter-spacing: 2.5px;
+		padding-top: 15px;
+		line-height: 1.7;
+		font-weight: bolder;
+	}
+}

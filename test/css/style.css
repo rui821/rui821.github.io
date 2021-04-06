@@ -1,0 +1,283 @@
+body{
+    font-family: dnp-shuei-gothic-gin-std, "Hiragino Sans", ヒラギノ角ゴシック, "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", メイリオ, Meiryo, sans-serif;
+}
+#page{
+    #width:1024px;
+    #margin:0 auto;
+}
+#pagehead{
+    background-image: url(../image/bg_01.jpg);
+    width: 100%;
+	height: 100vh;
+	top: 0;
+	right: 0;
+	#transition: visibility 0.7s ease;
+	#padding: 0 5vw;
+	#flex-wrap: wrap;
+	#text-align: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.hamburger-menu{
+    float:right;
+    margin:20px;
+    z-index: 1000;
+}
+/*ハンバーガー*/
+.hum-wrap{
+    width: 40px;
+	height: 40px;
+	background-color: #0d0d0d;
+	margin-bottom: 10px;
+    z-index: 1000;
+    position:  relative;
+}
+.hum-box{
+     position:  relative;
+}
+.hum-btn{
+    width: 15px;
+	height: 2px;
+	background-color: #fff;
+	position: absolute;
+	top: 0px;
+	right: 0;
+	left: 0px;
+	margin: auto;
+	display: block;
+	transition: 0.3s ease;
+}
+.hum-btn:nth-child(1) {
+	top: 12px;
+}
+.hum-btn:nth-child(2) {
+	top: 19px;
+}
+.hum-btn:nth-child(3) {
+	top: 26px;
+}
+/*ハンバーガーアクション*/
+.ham-wrap.is-active .hum-btn:nth-child(1) {
+	top: 20px;
+    transform: rotate(45deg);
+}
+.ham-wrap.is-active .hum-btn:nth-child(2) {
+	opacity: 0;
+}
+.ham-wrap.is-active .hum-btn:nth-child(3) {
+	top: 20.4px;
+    transform: rotate(-45deg);
+}
+
+/*メール*/
+.header-contact {
+	width: 40px;
+	height: 40px;
+	background-color: #f6e500;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	font-size: 18px;
+	margin-bottom: 20px;
+	transition: 0.5s ease;
+    text-decoration: none;
+    
+}
+@media screen and (min-width: 768px) {
+	.header-contact:hover {
+		background-color: #0d0d0d;
+		color: #f6e500;
+	}
+    .hum-wrap:not(.is-active):hover .hum-btn:nth-child(1){
+        top:14px;
+    } 
+    .hum-wrap:not(.is-active):hover .hum-btn:nth-child(3){
+        top:24px;
+    }
+}
+/*umi design*/
+.header-logo {
+	line-height: 1;
+    text-align: center;
+}
+.logo-tex{
+    writing-mode: vertical-rl;
+    text-decoration: none;
+    letter-spacing:4.5px;
+    color:white;
+    -ms-writing-mode: tb-rl;
+    font-size: 90%;
+}
+
+/*ハンバーガーナビ*/
+.header__nav{
+    
+}
+.header__nav .header__nav-list{
+    display: none;
+}
+.header__nav .header__nav-list .header__nav-item{
+    
+}
+.header__nav .header__nav-list .header__nav-item .header__nav-link{
+    text-decoration: none;
+}
+
+/*ヘッダーimage*/
+.main-head{
+    position: relative;
+}
+.main-head .main-logo{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    position:absolute;
+    display: inline-block;
+    width: 100%;
+    top:200px;
+    margin: 0px;
+}
+.main-head .main-logo .ico_00 img{
+    width:330px;
+}
+.main-head .main-logo .main-logo-tex{
+    font-size:16px;
+    letter-spacing:5px;
+}
+.main-head .logo-img .ico_01 img{
+    position:absolute;
+    width:150px;
+    margin-top:40px;
+    margin-left: -10px;
+}
+.main-head .logo-img .ico_02 img{
+    position:absolute;
+    width:80px;
+    margin-left: 100px;
+    margin-top: 300px
+}
+.main-head .logo-img .ico_03 img{
+    width:140px;
+    position:absolute;
+    right:140px;
+    top:300px;
+}
+.main-head .logo-img .ico_04 img{
+    position:absolute;
+    width:70px;
+    right: 0px;
+    z-index: 1;
+}
+@media screen and (max-width: 768px) {
+    #pagehead{
+        background-image: url(../image/bg_01.jpg);
+        width: 100%;
+        height: 70vh;
+        top: 0;
+        right: 0;
+        #transition: visibility 0.7s ease;
+        #padding: 0 5vw;
+        #flex-wrap: wrap;
+        #text-align: center;
+        background-size:cover;
+        background-repeat: no-repeat;
+        position: absolute;
+    }
+    .logo-tex{
+        writing-mode: vertical-rl;
+        text-decoration: none;
+        letter-spacing:3px;
+        color:white;
+        -ms-writing-mode: tb-rl;
+        font-size: 90%;
+    }
+    .main-head .logo-img .ico_01 img{
+    position:absolute;
+    width:80px;
+    margin-top:40px;
+    margin-left: -5px;
+}
+    .main-head .logo-img .ico_02 img{
+    display: none;
+}
+    .main-head .logo-img .ico_03 img{
+    width:80px;
+    position:absolute;
+    right:25px;
+    top:210px;
+    }
+    .main-head .logo-img .ico_04 img{
+    display: none;
+}
+    .main-head .main-logo{
+        text-align: center;
+        color: white;
+        position:absolute;
+        display: inline-block;
+        width: 100%;
+        top:100px;
+        margin: 0px;
+    }
+    .main-head .main-logo .ico_00 img{
+        width:240px;        
+    }
+    .main-head .main-logo .main-logo-tex{
+        margin-top: 13px;
+        font-size:1px;
+        letter-spacing:4px;
+    }
+}
+
+/*wave*/
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+svg {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.wave-system{
+    margin-top: 600px;
+    background-color: aqua;
+    height: 100px;
+}
+
+#pagehead{
+    margin-bottom: 100px;
+}
+.intro{
+    #margin-top:500px;
+}
+.intro #wave-canvas{
+    #background-color: aqua;
+}
+
+.intro .abstract{
+    text-align: center;
+	transition: 0.3s ease;
+}
+.intro .abstract .h2-title{
+    font-size: 40
+        px;
+    #position:relative; 
+    
+}
+.intro .abstract .h2-tex{
+    font-size: 14px;
+    color: black;
+    position: fixed;
+    position:relative;
+}
+.wave-wrp > canvas {
+	width: 100%;
+	height: 90px;
+}
+
+
+
+
+

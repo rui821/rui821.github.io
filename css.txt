@@ -1,0 +1,583 @@
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="shortcut icon" href="">
+	<link rel="stylesheet" href="https://umi.design/wp-content/themes/hakushi/common/css/init.css">
+	<link rel="stylesheet" href="https://umi.design/wp-content/themes/hakushi/common/css/basic.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+	<link rel="stylesheet" href="https://umi.design/wp-content/themes/hakushi/assets/css/home/modaal.min.css">
+	<link rel="stylesheet" href="https://umi.design/wp-content/themes/hakushi/assets/css/home/index.css">	
+	
+	<!-- This site is optimized with the Yoast SEO plugin v14.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>umi.design | umi.design(ウミデザイン)は神奈川県藤沢市を中心に、Webサイト(ホームページ)制作、WordPress構築、グラフィックデザイン(ポスター、パンフレット)、イラスト制作などを行っています。</title>
+	<meta name="description" content="umi.design(ウミデザイン)は神奈川県藤沢市を中心に、Webサイト(ホームページ)制作、WordPress構築、グラフィックデザイン(ポスター、パンフレット)、イラスト制作などを行っています。">
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="http://umi.design/">
+	<meta property="og:locale" content="ja_JP">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="umi.design">
+	<meta property="og:description" content="umi.design(ウミデザイン)は愛知県名古屋を中心に、Webサイト(ホームページ)制作、WordPress構築、グラフィックデザイン(ポスター、パンフレット)、イラスト制作などを行っています。">
+	<meta property="og:url" content="https://umi.design/">
+	<meta property="og:site_name" content="umi.design">
+	<meta property="og:image" content="https://umi.design/wp-content/uploads/2020/01/ogp.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="fb:app_id" content="2510542862494943">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@_umi_design">
+	<script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script>
+	<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=umi.design&amp;callback=_gfp_s_&amp;client=ca-pub-1208380001638110&amp;cookie=ID%3Dc062c506b6b39069-226858f15ac60050%3AT%3D1615519197%3ART%3D1615519197%3AS%3DALNI_MaaAvnqpJTCmotJD333Aa08B2rlUA"></script>
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script src="https://pagead2.googlesyndication.com/pagead/js/r20210309/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script>
+	<script src="https://use.typekit.net/zre2mkw.js" async=""></script>
+	<script type="application/ld+json" class="yoast-schema-graph">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://umi.design/#organization","name":"umi.design",
+"url":"https://umi.design/","sameAs":["https://www.facebook.com/umi.design/","https://twitter.com/_umi_design"],
+"logo":{"@type":"ImageObject","@id":"https://umi.design/#logo","inLanguage":"ja",
+"url":"https://umi.design/wp-content/uploads/2020/01/03.png","width":2157,"height":611,"caption":"umi.design"},
+"image":{"@id":"https://umi.design/#logo"}},{"@type":"WebSite","@id":"https://umi.design/#website","url":
+"https://umi.design/","name":"umi.design","description":"umi.design(\u30a6\u30df\u30c7\u30b6\u30a4\u30f3)\u306f\u795e\u5948\u5ddd\u770c\u85e4\u6ca2\u5e02\u3092\u4e2d\u5fc3\u306b\u3001Web\u30b5\u30a4\u30c8(\u30db\u30fc\u30e0\u30da\u30fc\u30b8)\u5236\u4f5c\u3001WordPress\u69cb\u7bc9\u3001\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b6\u30a4\u30f3(\u30dd\u30b9\u30bf\u30fc\u3001\u30d1\u30f3\u30d5\u30ec\u30c3\u30c8)\u3001\u30a4\u30e9\u30b9\u30c8\u5236\u4f5c\u306a\u3069\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002","publisher":{"@id":"https://umi.design/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://umi.design/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ja"},{"@type":"CollectionPage","@id":"http://umi.design/#webpage","url":"http://umi.design/","name":"umi.design | umi.design(\u30a6\u30df\u30c7\u30b6\u30a4\u30f3)\u306f\u795e\u5948\u5ddd\u770c\u85e4\u6ca2\u5e02\u3092\u4e2d\u5fc3\u306b\u3001Web\u30b5\u30a4\u30c8(\u30db\u30fc\u30e0\u30da\u30fc\u30b8)\u5236\u4f5c\u3001WordPress\u69cb\u7bc9\u3001\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b
+6\u30a4\u30f3(\u30dd\u30b9\u30bf\u30fc\u3001\u30d1\u30f3\u30d5\u30ec\u30c3\u30c8)\u3001\u30a4\u30e9\u30b
+9\u30c8\u5236\u4f5c\u306a\u3069\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002",
+"isPartOf":{"@id":"https://umi.design/#website"},"about":{"@id":"https://umi.design/#organization"},
+"description":"umi.design(\u30a6\u30df\u30c7\u30b6\u30a4\u30f3)\u306f\u795e\u5948\u5ddd\u770c\u85e4\u6
+ca2\u5e02\u3092\u4e2d\u5fc3\u306b\u3001Web\u30b5\u30a4\u30c8(\u30db\u30fc\u30e0\u30da\u30fc\u30b8)\u5236\u4f5
+c\u3001WordPress\u69cb\u7bc9\u3001\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b6\u30a4\u30f3(\u30dd\u30b9\u30bf
+\u30fc\u3001\u30d1\u30f3\u30d5\u30ec\u30c3\u30c8)\u3001\u30a4\u30e9\u30b9\u30c8\u5236\u4f5c\u306a\u3069\u3092\u884
+c\u3063\u3066\u3044\u307e\u3059\u3002","inLanguage":"ja"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="umi.design » フィード" href="https://umi.design/feed/">
+<link rel="alternate" type="application/rss+xml" title="umi.design » コメントフィード" href="https://umi.design/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://c0.wp.com/c/5.4.4/wp-includes/css/dist/block-library/style.min.css" 
+type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://umi.design/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://c0.wp.com/p/jetpack/8.7.1/css/jetpack.css" type="text/css" media="all">
+<script type="text/javascript" src="https://c0.wp.com/c/5.4.4/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/5.4.4/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<link rel="https://api.w.org/" href="https://umi.design/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://umi.design/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://umi.design/wp-includes/wlwmanifest.xml"> 
+
+<link rel="dns-prefetch" href="//c0.wp.com">
+<style type="text/css">img#wpstats{display:none}</style>
+<meta name="description" content="umi.design(ウミデザイン)は神奈川県藤沢市を中心に、Webサイト(ホームページ)制作、WordPress構築、グラフィックデザイン(ポスター、パンフレット)、イラスト制作などを行っています。">		<script>
+	  (function(d) {
+	    var config = {
+	      kitId: 'zre2mkw',
+	      scriptTimeout: 3000,
+	      async: true
+	    },
+	    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-143762141-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-143762141-1');
+	</script>
+
+	<script data-ad-client="ca-pub-1208380001638110" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+
+
+<link rel="prefetch"><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style>.tk-dnp-shuei-gothic-gin-std{font-family:"dnp-shuei-gothic-gin-std",sans-serif;}</style><link rel="preload" href="https://adservice.google.co.jp/adsid/integrator.js?domain=umi.design" as="script"><script type="text/javascript" src="https://adservice.google.co.jp/adsid/integrator.js?domain=umi.design"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=umi.design" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=umi.design"></script></head>
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------
+<body class="">
+<div id="page" class="site">
+	<header id="header">
+		<div class="header-in">
+			<div class="ham-wrap">
+				<div class="ham-menu__btn">
+					<span class="ham-menu__btn-l"></span>
+					<span class="ham-menu__btn-l"></span>
+					<span class="ham-menu__btn-l"></span>
+				</div>
+			</div><!-- sp-menu -->
+			<a class="header-contact page-link" href="https://umi.design/#contact"><i class="far fa-envelope"></i></a>
+			<div class="header-logo">
+				<a class="logo__link effect-fade-hover" href="https://umi.design/">umi.design</a>
+			</div>
+		</div>
+
+		<nav class="header__nav">
+			<ul class="header__nav-list">
+				<li class="header__nav-item"><a class="header__nav-link page-link" href="https://umi.design/#lead">コンセプト</a></li>
+				<li class="header__nav-item"><a class="header__nav-link page-link" href="https://umi.design/#works">できること</a></li>
+				<li class="header__nav-item"><a class="header__nav-link page-link" href="https://umi.design/#design">こんなデザイン</a></li>
+				<li class="header__nav-item"><a class="header__nav-link page-link" href="https://umi.design/#flow">制作のながれ</a></li>
+				<li class="header__nav-item"><a class="header__nav-link" href="https://umi.design/bloglist/">ブログ</a></li>
+				<li class="header__nav-item"><a class="header__nav-link page-link" href="https://umi.design/#contact">お問い合わせ</a></li>
+			</ul>
+		</nav>
+	</header><!-- #header -->
+
+
+	<div id="content" class="site-content js-load js-load--on">
+
+	<div id="primary" class="content-area">
+		<main id="main">
+			<div class="lcl-main">
+				<h1 class="lcl-main__ttl">
+					<svg id="logo_main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2157.19 610.95">
+<g id="" data-name=""><g id="" data-name="">
+<path class="cls-1" d="62,416.76,327.78,517.66,207.71,517.66Z" style="stroke-dasharray: 1662, 1664; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M70707.07,517.66Z" style="stroke-dasharray: 1662, 1664; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M146585a333.26,333..9,517.66,1465.82,517.66Z" style="stroke-dasharray: 1662, 1664; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1926.62,468.05c-94.53,0-154.36-79.harray: 1309, 1311; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1112.684-62.64,153.67-139.72,401.56,1112.68,401.56Z" style="stroke-dasharray: 831, 833; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1783.a56.86,56.86,0,0,0-54.92,71.58Z" style="stroke-dasharray: 509, 511; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M548.628,7.14T548s="cls-1" d="M1047.5,07,,0-10-5.06,25.06,,17.33,0,0,0,1005.71,101.64Z" style="stroke-dasharray: 481, 483; stroke-dashoffset: 0;"></path><path class="cls-1" d="M1165.89,83.19H1115.6q1.1,9.07,6.68,14.33a19.25,19.25,0,0,0,13.7,5.26,24,24,0,0,0,11-2.58,21.9,21.9,0,0,0,8.5-7.94l10.39,4.93A32.19,32.19,0,0,1,1153,109.36a37.2,37.2,0,0,1-17.32,4.11,34.41,34.41,0,0,1-17.24-4.26,29.91,29.91,0,0,1-11.73-11.9,35,35,0,0,1-4.2-17.18A35.35,35.35,0,0,1,1106.67,63a31.59,31.59,0,0,1,43.72-11.8,30.38,30.38,0,0,1,11.11,12.61A46.65,46.65,0,0,1,1165.89,83.19ZM1134.1,57.11a16.55,16.55,0,0,0-11.7,4.72A22,22,0,0,0,1116,74.3h37.56a22.3,22.3,0,0,0-7-12.47A18.2,18.2,0,0,0,1134.1,57.11Z" style="stroke-dasharray: 404, 406; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1260.26,51.17V48.46h10.27v21h-10.27V65.59q-5.15-7.76-14-7.76a12.69,12.69,0,0,0-7.65,2.17,6.62,6.62,0,0,0-3,5.59,5.73,5.73,0,0,0,2.25,4.8c1.51,1.16,4.88,2.19,10.14,3.07l7.93,1.62q17.76,3.42,17.75,18.33a17.24,17.24,0,0,1-6.42,14q-6.42,5.28-17,5.28a27.39,27.39,0,0,1-8.3-1.29,24.86,24.86,0,0,1-6.82-3.21v3.42h-10.51V90h10.51v2.16a11.13,11.13,0,0,0,4.82,7.33,15.67,15.67,0,0,0,9.22,2.77c3.84,0,6.87-.71,9.07-2.13a7.06,7.06,0,0,0,3.31-6.34,5,5,0,0,0-2.62-4.6q-2.62-1.53-10.56-3.15l-6.11-1.39q-9.08-1.92-13.3-6.61a17.15,17.15,0,0,1-4.22-12A16.35,16.35,0,0,1,1227.81,56a19.44,19.44,0,0,1,8-6.28,24.91,24.91,0,0,1,10-2.1Q1254.39,47.62,1260.26,51.17Z" style="stroke-dasharray: 364, 366; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1360.45,100.56v11h-30.31v-11h9.36v-41h-9.36V48.46h21.17v52.1ZM1352,27.19a7.41,7.41,0,0,1-2.11,5.29,6.7,6.7,0,0,1-5,2.22,6.51,6.51,0,0,1-5-2.22,7.82,7.82,0,0,1,0-10.58,6.51,6.51,0,0,1,5-2.22,6.73,6.73,0,0,1,5.08,2.16A7.49,7.49,0,0,1,1352,27.19Z" style="stroke-dasharray: 252, 254; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1467.43,57.59V48.46H1490V59.58h-10.85v47.35q0,16.51-7.9,25.5t-23.09,9q-14.39,0-24.55-8.54l7.59-8.95a33.11,33.11,0,0,0,8.25,4.78,25,25,0,0,0,9,1.59q8.89,0,13.93-5.83t5-15.44v-5.89a27,27,0,0,1-9.85,7.57,28.1,28.1,0,0,1-11.9,2.76,26.35,26.35,0,0,1-15-4.44,30.55,30.55,0,0,1-10.39-11.81,35,35,0,0,1-3.74-16.13,36.19,36.19,0,0,1,3.91-16.65,31.86,31.86,0,0,1,10.7-12.25,26.38,26.38,0,0,1,15.07-4.57,25.46,25.46,0,0,1,11.1,2.46A35.8,35.8,0,0,1,1467.43,57.59Zm-19.52,44.77a18,18,0,0,0,10.1-3,19.92,19.92,0,0,0,7-7.93,23.48,23.48,0,0,0,2.51-10.75,22.78,22.78,0,0,0-2.51-10.4,21.07,21.07,0,0,0-7-8,17.67,17.67,0,0,0-19.7-.12,20,20,0,0,0-6.85,7.93,24.13,24.13,0,0,0-2.45,10.76,24.86,24.86,0,0,0,2.34,10.81,19,19,0,0,0,6.65,7.81A17.25,17.25,0,0,0,1447.91,102.36Z" style="stroke-dasharray: 525, 527; stroke-dashoffset: 0;"></path>
+<path class="cls-1" d="M1602.1,69.13v31.43h10v11h-21.86V69.91c0-4-.54-6.81-1.63-8.53s-2.86-2.58-5.33-2.58q-7.89,0-17.7,8.17v33.59H1576v11h-32.53v-11H1554v-41h-10.56V48.46h22.2v7.63q11-8.48,20.72-8.47,8.06,0,11.9,5.23T1602.1,69.13Z" style="stroke-dasharray: 406, 408; stroke-dashoffset: 0;"></path></g></g>
+</svg>
+					<em class="lcl-main__ttl-sub">Web・グラフィックデザイン</em>
+				</h1>
+				<div class="lcl-main-ico">
+					<span class="lcl-main-ico-item--01"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/main/ico_01.png" alt=""></span>
+					<span class="lcl-main-ico-item--02"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/main/ico_02.png" alt=""></span>
+					<span class="lcl-main-ico-item--03"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/main/ico_03.png" alt=""></span>
+					<span class="lcl-main-ico-item--04"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/main/ico_04.png" alt=""></span>
+				</div>
+
+</div>
+
+
+
+<!-- /.lcl-main -->
+			<div id="lead" class="lcl-lead">
+				<div class="wave-wrp">
+				    <canvas id="wave-item-01" width="697" height="90"></canvas>
+				</div>
+				<h2 class="lcl-lead__ttl fadein-bottom scroll-fade">広く深いデザインをうみだす</h2>
+				<p class="lcl-lead__txt fadein-bottom scroll-fade">
+					波も風も砂浜も同じものは無いように<br class="dn-w">人も会社もひとつひとつ違います<br>
+					灯台のように道を照らし、<br class="dn-w">同じ舟に乗るように共に歩む<br>
+					そんなデザインをうみだしていきたいと<br class="dn-w">わたしたちは考えています
+				</p>
+				<div class="lcl-lead-ico-wrp">
+					<span class="lcl-lead-ico-item--01"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/lead/ico_01.png" alt=""></span>
+					<span class="lcl-lead-ico-item--02"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/lead/ico_02.png" alt=""></span>
+					<span class="lcl-lead-ico-item--03"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/lead/ico_01.png" alt=""></span>
+					<span class="lcl-lead-ico-item--04"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/lead/ico_02.png" alt=""></span>
+				</div>
+			</div><!-- /.lcl-lead -->
+			<div id="works" class="lcl-works bg_gray">
+				<div class="wave-wrp">
+				    <canvas id="wave-item-02" width="697" height="90"></canvas>
+				</div>
+				<div class="blockttl">
+					<h2 class="blockttl__main fadein-bottom scroll-fade">私たちができること</h2>
+					<p class="blockttl__sub fadein-bottom scroll-fade">About Works</p>
+				</div>
+
+				<div class="cnt-in">
+					<ul class="lcl-works-list">
+						<li class="lcl-works-item--01 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#maintenance" data-modaal-scope="modaal_161552040152956062a0bdf4dd">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_01.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">Webサイト制作<br>運用・保守</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--02 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#blog" data-modaal-scope="modaal_1615520401529422329d159676">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_02.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">WordPress・<br>ブログ構築</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--03 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#lp" data-modaal-scope="modaal_1615520401529d8cdcf99d18c8">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_03.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">ランディング<br>ページ制作</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--04 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#consulting" data-modaal-scope="modaal_161552040153020392575af1cf">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_04.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">Webコンサルティング・<br>ディレクション</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--05 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#poster" data-modaal-scope="modaal_1615520401530394c1d8371163">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_05.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">チラシ・<br>ポスター制作</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--06 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#pamphlet" data-modaal-scope="modaal_16155204015301229e216b9aca">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_06.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">パンフレット・<br>リーフレット制作</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--07 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#dm" data-modaal-scope="modaal_1615520401530c9ddc3c57053c">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_07.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">DM・名刺</p>
+							</a>
+						</li>
+						<li class="lcl-works-item--08 scr-anin scr-anin--on">
+							<a class="lcl-works-item__link modallink" href="#illust" data-modaal-scope="modaal_1615520401530404bcd377f025">
+								<div class="lcl-works-item-circle">
+									<span><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/works/ico_08.png" alt=""></span>
+								</div>
+								<p class="lcl-works-item-txt">イラスト制作</p>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div><!-- /.lcl-works -->
+			<div id="design" class="lcl-design">
+				<div class="wave-wrp">
+				    <canvas id="wave-item-03" width="697" height="90"></canvas>
+				</div>
+				<div class="lcl-design-in">
+					<div class="lcl-design-txt">
+						<div class="blockttl">
+							<h2 class="blockttl__main fadein-bottom scroll-fade">例えばこんな<br class="dn-n">デザイン</h2>
+							<p class="blockttl__sub fadein-bottom scroll-fade">e.g. design</p>
+						</div>
+						<p class="lcl-design-txt__desc fadein-bottom scroll-fade">
+							umi.designはグラフィックデザインもWebデザインも制作できます。手に取る人のことを、画面の向こう側の人のことを第一に考える、そんなデザインが得意です。
+							<span class="block_subtxt mt20-w mt10-n dib">※非公開実績もございます。お気軽に<a class="link_txt page-link" href="#contact">ご連絡ください。</a></span>
+						</p>
+					</div>
+					<div class="lcl-design-archive">
+						<ul class="lcl-slide slick-initialized slick-slider"><a class="slick-prev slick-arrow" href="#" style=""><i class="fas fa-chevron-left"></i></a>
+							
+							
+							
+							
+							
+							
+						<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 896px; transform: translate3d(-128px, 0px, 0px);"><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="-2" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--05">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">名刺・DM</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="-1" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--06">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">イラスト</p>
+							</li><li class="lcl-slide-item slick-slide slick-current slick-active" style="width: 44px;" tabindex="0" data-slick-index="0" aria-hidden="false">
+								<div class="lcl-slide-item-img lcl-slide-item-img--01">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">シンプルデザイン</p>
+							</li><li class="lcl-slide-item slick-slide slick-active" style="width: 44px;" tabindex="0" data-slick-index="1" aria-hidden="false">
+								<div class="lcl-slide-item-img lcl-slide-item-img--02">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">ごてごてデザイン</p>
+							</li><li class="lcl-slide-item slick-slide" style="width: 44px;" tabindex="-1" data-slick-index="2" aria-hidden="true">
+								<div class="lcl-slide-item-img lcl-slide-item-img--03">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">企業向けデザイン</p>
+							</li><li class="lcl-slide-item slick-slide" style="width: 44px;" tabindex="-1" data-slick-index="3" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--04">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">チラシ・ポスター</p>
+							</li><li class="lcl-slide-item slick-slide" style="width: 44px;" tabindex="-1" data-slick-index="4" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--05">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">名刺・DM</p>
+							</li><li class="lcl-slide-item slick-slide" style="width: 44px;" tabindex="-1" data-slick-index="5" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--06">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">イラスト</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="6" aria-hidden="true">
+								<div class="lcl-slide-item-img lcl-slide-item-img--01">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">シンプルデザイン</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="7" aria-hidden="true">
+								<div class="lcl-slide-item-img lcl-slide-item-img--02">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">ごてごてデザイン</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="8" aria-hidden="true">
+								<div class="lcl-slide-item-img lcl-slide-item-img--03">
+									<span class="lcl-slide-item-img__ico">Web</span>
+								</div>
+								<p class="lcl-slide-item__txt">企業向けデザイン</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="9" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--04">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">チラシ・ポスター</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="10" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--05">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">名刺・DM</p>
+							</li><li class="lcl-slide-item slick-slide slick-cloned" style="width: 44px;" tabindex="-1" data-slick-index="11" aria-hidden="true">
+								<div class="lcl-slide-item-img  lcl-slide-item-img--06">
+									<span class="lcl-slide-item-img__ico">Gra</span>
+								</div>
+								<p class="lcl-slide-item__txt">イラスト</p>
+							</li></div></div><a class="slick-next slick-arrow" href="#" style=""><i class="fas fa-chevron-right"></i></a></ul>
+
+					</div>
+
+				</div>
+
+			</div><!-- /.lcl-design -->
+			<div id="flow" class="lcl-flow">
+				<div class="wave-wrp lcl-flow-wave-01">
+				    <canvas id="wave-item-04" width="697" height="90"></canvas>
+				</div>
+				<div class="blockttl blockttl--wh">
+					<h2 class="blockttl__main fadein-bottom scroll-fade">制作のながれ</h2>
+					<p class="blockttl__sub fadein-bottom scroll-fade">Work Flow</p>
+				</div>
+				<div class="cnt-in">
+					<ul class="lcl-flow-list">
+						<li class="lcl-flow-item--01 scr-anin scr-anin--on">
+							<div class="lcl-flow-item-num">
+								<span class="lcl-flow-item-num__step"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/txt_01.png" alt="STEP"></span>
+								<em class="lcl-flow-item-num__ico fadein-bottom scroll-fade"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/num_01.png" alt="01"></em>
+							</div>
+							<p class="lcl-flow-item-txt fadein-bottom scroll-fade">お客さまのご要望・お悩みをヒアリングし、umi.designができること、そして課題解決に向けた最善策をご提案いたします。</p>
+						</li>
+						<li class="lcl-flow-item--02 scr-anin scr-anin--on">
+							<div class="lcl-flow-item-num">
+								<span class="lcl-flow-item-num__step"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/txt_01.png" alt="STEP"></span>
+								<em class="lcl-flow-item-num__ico fadein-bottom scroll-fade"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/num_02.png" alt="02"></em>
+							</div>
+							<p class="lcl-flow-item-txt fadein-bottom scroll-fade">ヒアリングしたコンセプト・構成を考え、デザインを制作いたします。Web制作であれば、UI/UXに考慮したコーディングをおこないます。</p>
+						</li>
+						<li class="lcl-flow-item--03 scr-anin scr-anin--on">
+							<div class="lcl-flow-item-num">
+								<span class="lcl-flow-item-num__step"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/txt_01.png" alt="STEP"></span>
+								<em class="lcl-flow-item-num__ico fadein-bottom scroll-fade"><img src="https://umi.design/wp-content/themes/hakushi/assets/img/home/flow/num_03.png" alt="03"></em>
+							</div>
+							<p class="lcl-flow-item-txt fadein-bottom scroll-fade">より良いものへとブラッシュアップを行い、納品いたします。もちろん納品後の継続的な改善、数値計測やサイト運用も承ります。</p>
+						</li>
+					</ul>
+				</div>
+				<div class="wave-wrp lcl-flow-wave-02">
+				    <canvas id="wave-item-05" width="697" height="90"></canvas>
+				</div>
+			</div><!-- /.lcl-flow -->
+			<div id="contact" class="lcl-contact">
+				<div class="blockttl">
+					<h2 class="blockttl__main fadein-bottom scroll-fade">お問い合わせ</h2>
+					<p class="blockttl__sub fadein-bottom scroll-fade">Contact</p>
+				</div>
+				<div id="mailform">
+					<div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="ja" dir="ltr">
+<div class="screen-reader-response" role="alert" aria-live="polite"></div>
+<form action="/#wpcf7-f5-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5">
+<input type="hidden" name="_wpcf7_version" value="5.2">
+<input type="hidden" name="_wpcf7_locale" value="ja">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="mailform-item">
+  <span class="wpcf7-form-control-wrap text-249"><input type="text" name="text-249" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required mailform-item__txt" id="company" aria-required="true" aria-invalid="false"></span><br>
+  <label class="mailform-item__ttl" for="company">企業名*</label>
+</div>
+<div class="mailform-item-2col">
+<div class="mailform-item">
+    <span class="wpcf7-form-control-wrap text-250"><input type="text" name="text-250" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required mailform-item__txt" id="name" aria-required="true" aria-invalid="false"></span><label class="mailform-item__ttl" for="name">お名前*</label>
+  </div>
+<div class="mailform-item">
+    <span class="wpcf7-form-control-wrap tel-932"><input type="tel" name="tel-932" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel mailform-item__txt" id="tel" aria-required="true" aria-invalid="false"></span><br>
+    <label class="mailform-item__ttl" for="tel">TEL*</label>
+  </div>
+</div>
+<div class="mailform-item">
+  <span class="wpcf7-form-control-wrap email-664"><input type="email" name="email-664" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email mailform-item__txt" id="mail" aria-required="true" aria-invalid="false"></span><br>
+  <label class="mailform-item__ttl" for="mail">メールアドレス*</label>
+</div>
+<div class="mailform-item">
+<ul class="mailform-item–list">
+    <span class="wpcf7-form-control-wrap radio-537"><span class="wpcf7-form-control wpcf7-radio mailform-label-txt"><span class="wpcf7-list-item first"><label><input type="radio" name="radio-537" value="お仕事のご相談" checked="checked"><span class="wpcf7-list-item-label">お仕事のご相談</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="radio-537" value="お見積もり"><span class="wpcf7-list-item-label">お見積もり</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="radio-537" value="まずは話をしたい"><span class="wpcf7-list-item-label">まずは話をしたい</span></label></span></span></span>
+  </ul>
+</div>
+<div class="mailform-item">
+<span class="wpcf7-form-control-wrap textarea-985"><textarea name="textarea-985" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required mailform-item__txt" id="cnt_txt" aria-required="true" aria-invalid="false"></textarea></span><br>
+<label class="mailform-item__ttl" for="cnt_txt">お問い合わせ内容を入力してください。*</label>
+</div>
+<p class="tac"><a class="mailform-item__policy modallink" href="#policy" data-modaal-scope="modaal_16155204015300c7b110bdab64">プライバシーポリシーを確認する</a></p>
+<p><br></p>
+<p class="mailform-item__alert">*必須項目です</p>
+<p class="contact-submit">
+  <input type="submit" value="問い合わせる" class="wpcf7-form-control wpcf7-submit" id="submit"><span class="ajax-loader"></span></p>
+<div class="wpcf7-response-output" role="alert" aria-hidden="true"></div></form></div>				</div>
+				<div class="wave-wrp">
+				    <canvas id="wave-item-06" width="697" height="90"></canvas>
+				</div>
+			</div><!-- /.lcl-contact -->
+			<div class="lcl-blog bg_gray">
+				<div class="blockttl">
+					<h2 class="blockttl__main fadein-bottom">ブログ</h2>
+					<p class="blockttl__sub fadein-bottom">Blog</p>
+				</div>
+
+				<div class="lcl-blog–list">
+										<a class="lcl-blog–item__link" href="https://umi.design/blog/wordpress-searchform-post/">
+						<time class="lcl-blog–item__day">2020.02.16</time>
+						<p class="lcl-blog–item__ttl">[WordPress]検索結果に固定ページを表示しない方法(投稿記事のみ)</p>
+					</a>
+										<a class="lcl-blog–item__link" href="https://umi.design/blog/wordpress-searchform/">
+						<time class="lcl-blog–item__day">2020.02.08</time>
+						<p class="lcl-blog–item__ttl">WordPressで検索フォームをカスタマイズ(FontAwesome)するときのメモ</p>
+					</a>
+										<a class="lcl-blog–item__link" href="https://umi.design/blog/wordpress-json/">
+						<time class="lcl-blog–item__day">2020.02.04</time>
+						<p class="lcl-blog–item__ttl">WordPressの記事をJSONで取得して表示する</p>
+					</a>
+									</div><!-- /.lcl-blog–list -->
+				<a class="lcl-blog__link" href="https://umi.design/bloglist/">ブログ一覧</a>
+
+				<div class="wave-wrp">
+				    <canvas id="wave-item-07" width="697" height="90"></canvas>
+				</div>
+			</div><!-- /.lcl-blog -->
+		</main><!-- #main -->
+		<!-- modal -->
+		<div id="maintenance" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">Webサイト制作運用・保守</h3>
+				<p class="modal-block-txt">ご要望、コンセプトをもとにWebサイトを企画・仕様を設計します。もちろんページ追加や運用修正なども承ります。ご予算にあった最善策をご提案します。</p>
+			</div>
+		</div>
+		<div id="blog" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">WordPress・ブログ構築</h3>
+				<p class="modal-block-txt">プログメディア、新着情報のCMS化など、WordPressを使用したシステム構築が可能です。修正や機能追加などもご相談ください。</p>
+			</div>
+		</div>
+		<div id="lp" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">ランディングページ制作</h3>
+				<p class="modal-block-txt">広告用から、新商品の特設LPまで、グラフィックやアニメーションに凝った制作が可能です。</p>
+			</div>
+		</div>
+		<div id="consulting" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">Webコンサルティング・<br class="dn-w">ディレクション</h3>
+				<p class="modal-block-txt">現状サイトやリニューアルの相談、改善案、運用方法などお気軽にご相談ください。</p>
+			</div>
+		</div>
+		<div id="poster" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">チラシ・ポスター制作</h3>
+				<p class="modal-block-txt">商業的なデザインから魅せるデザインまで幅広くご提案します。ヒアリングをしてコンセプトから構成まで考えます。</p>
+			</div>
+		</div>
+		<div id="pamphlet" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">パンフレット・リーフレット制作</h3>
+				<p class="modal-block-txt">ちょっとした冊子から、会社案内などの企画、構成、デザインまでを制作します。お客様に合った魅せ方もご提案します。</p>
+			</div>
+		</div>
+		<div id="dm" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">DM・名刺</h3>
+				<p class="modal-block-txt">個人の名刺や企業の名刺や、DMはイベント系～折り込み系まで幅広く取り扱っております。</p>
+			</div>
+		</div>
+		<div id="illust" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">イラスト制作</h3>
+				<p class="modal-block-txt">単体イラストから、漫画まで制作可能です。イラストタッチもお客様に合わせてご提案します。</p>
+			</div>
+		</div>
+		<div id="policy" class="modal-block dn">
+			<div class="modal-block-in">
+				<h3 class="modal-block__ttl">プライバシーポリシー</h3>
+				<p class="modal-block-txt">
+					<em>個人情報の利用目的</em><br>
+					当ブログでは、メールでのお問い合わせなどの際に、お名前、メールアドレス等の個人情報をご登録いただく場合がございます。これらの個人情報は質問に対する回答や必要な情報を電子メールなどでご連絡する場合に利用させていただくものであり、個人情報をご提供いただく際の目的以外では利用いたしません。<br><br>
+					<em>個人情報の第三者への開示</em><br>
+					当サイトでは、個人情報は適切に管理し、以下に該当する場合を除いて第三者に開示することはありません。<br>
+					・本人のご了解がある場合<br>
+					・法令等への協力のため、開示が必要となる場合<br><br>
+					<em>個人情報の開示、訂正、追加、削除、利用停止</em><br>
+					ご本人からの個人データの開示、訂正、追加、削除、利用停止のご希望の場合には、ご本人であることを確認させていただいた上、速やかに対応させていただきます。<br><br>
+					<em>アクセス解析ツールについて</em><br>
+					当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。<br>
+					このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。この規約に関して、詳しくは<a href="https://marketingplatform.google.com/about/analytics/terms/jp/" target="_blank">ここをクリック</a>してください。<br><br>
+					<em>免責事項</em><br>
+					当サイトで掲載している画像の著作権・肖像権等は各権利所有者に帰属致します。権利を侵害する目的ではございません。記事の内容や掲載画像等に問題がございましたら、各権利所有者様本人が直接メールでご連絡下さい。確認後、対応させて頂きます。<br>
+					当サイトからリンクやバナーなどによって他のサイトに移動された場合、移動先サイトで提供される情報、サービス等について一切の責任を負いません。当サイトのコンテンツ・情報につきまして、可能な限り正確な情報を掲載するよう努めておりますが、誤情報が入り込んだり、情報が古くなっていることもございます。<br>
+					当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
+				</p>
+			</div>
+		</div><!-- /.modal -->
+	</div><!-- #primary -->
+
+	</div><!-- #content -->
+	<footer id="footer">
+		<div class="footer-in">
+			<a class="footer-logo effect-fade-hover" href="https://umi.design/"><img src="https://umi.design/wp-content/themes/hakushi/common/img/footer/logo.png" alt="umi.design"></a>
+			<p class="footer-copy"><small>© 2019 umi.design</small></p>
+		</div>
+	</footer><!-- #footer -->
+</div><!-- #page -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/umi.design\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://umi.design/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/5.4.4/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202110.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.7.1',blog:'171995987',post:'0',tz:'9',srv:'umi.design'} ]);
+	_stq.push([ 'clickTrackerInit', '171995987', '0' ]);
+</script>
+<script src="https://umi.design/wp-content/themes/hakushi/common/js/library.js"></script>
+<script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+<script src="https://umi.design/wp-content/themes/hakushi/common/js/basic.js"></script>
+<script src="https://umi.design/wp-content/themes/hakushi/assets/js/home/modaal.min.js"></script><script src="https://umi.design/wp-content/themes/hakushi/assets/js/home/vivus.min.js"></script><script src="https://umi.design/wp-content/themes/hakushi/assets/js/home/index.js"></script>
+
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;" tabindex="0" title="Advertisement" aria-label="Advertisement"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1208380001638110&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1615520401&amp;plat=1%3A8%2C2%3A8%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fumi.design%2F%23works&amp;ea=0&amp;flash=0&amp;pra=5&amp;wgl=1&amp;uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjg4LjAuNDMyNC4xOTAiLFtdXQ..&amp;tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjo1fSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6N31d&amp;dt=1615520401509&amp;bpp=3&amp;bdt=170&amp;idt=177&amp;shv=r20210309&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Dc062c506b6b39069-226858f15ac60050%3AT%3D1615519197%3ART%3D1615519197%3AS%3DALNI_MaaAvnqpJTCmotJD333Aa08B2rlUA&amp;nras=1&amp;correlator=982514291185&amp;frm=20&amp;pv=2&amp;ga_vid=31009510.1615519197&amp;ga_sid=1615520402&amp;ga_hid=387673727&amp;ga_fc=1&amp;u_tz=540&amp;u_his=4&amp;u_java=0&amp;u_h=720&amp;u_w=1280&amp;u_ah=680&amp;u_aw=1280&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=-12245933&amp;ady=-12245933&amp;biw=697&amp;bih=600&amp;scr_x=0&amp;scr_y=0&amp;eid=31060287%2C44736524%2C31060305%2C21067496&amp;oid=3&amp;pvsid=1109329293088820&amp;pem=960&amp;ref=https%3A%2F%2Fwebdesign-trends.net%2F&amp;rx=0&amp;eae=2&amp;fc=1920&amp;brdim=558%2C0%2C558%2C0%2C1280%2C0%2C729%2C687%2C714%2C600&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=8192&amp;bc=31&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=193" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true"></iframe></ins></ins></ins><img src="https://pixel.wp.com/g.gif?v=ext&amp;j=1%3A8.7.1&amp;blog=171995987&amp;post=0&amp;tz=9&amp;srv=umi.design&amp;host=umi.design&amp;ref=https%3A%2F%2Fwebdesign-trends.net%2F&amp;fcp=191&amp;rand=0.6850624124075078" alt=":)" width="6" height="5" id="wpstats"><iframe id="google_osd_static_frame_1386663848943" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body>
